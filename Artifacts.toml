@@ -1,0 +1,316 @@
+[[ZXing_CPP]]
+arch = "aarch64"
+git-tree-sha1 = "b2792d54a1ede601719c31cb5ed82eef109e546d"
+os = "macos"
+
+    [[ZXing_CPP.download]]
+    sha256 = "5f243c81b4a0ecb06742cc550f2e48d6e452236ae8c43ce4ba1875f03afab227"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.aarch64-apple-darwin.tar.gz"
+[[ZXing_CPP]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1fd4c0c008808db690a047a3f1767c98475b24b1"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "cafab6bc1b5280a3b7ec490e6d413c170e5dbf3201fa262d66cb47ef63c8767a"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3932d039892e2bc21b5d9442c6130b93b0e1f086"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "33b8655d491ec315bd9a9b4e853e4ea143c45bde03018e986c87a03c695dc559"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "949c391018d59a90581e242d97705436768dbe4d"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "41bd518003f4b7e8b02c71967c29104ad8f10785ff36c2aea5995942b99d9bd0"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c367eaa3a8709bbb7f565e1301b3eaeef261483"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "532fc25b494984bf421019b1c8f5c6f934123af1a7f78e75afe1b6b16312bbea"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "aarch64"
+git-tree-sha1 = "8b5becb24d2234b23548a23cbcd70f7838942ea6"
+os = "freebsd"
+
+    [[ZXing_CPP.download]]
+    sha256 = "9d3a7d59a2ba622248ce3286498335c7e8d808ed20b1439de2683b90ecd26f3b"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.aarch64-unknown-freebsd.tar.gz"
+[[ZXing_CPP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b2718062c95c26f882f8c011a7e2fdf72880c725"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "b0171ffef31e93032c8664b1ba9f7005bdfa6935457b240258e281e5ab55fe80"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3faa3658cd37b08a420b41fe739f4a0c17a92444"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "9e0736b32b40260f0505f8549efd12c3ab2cec89849e76281b0d87aa26055afa"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6e1287833e0921391a481c4ae6721ecf05d0a687"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "64e098a7ed597689da7e216ddf7e5f05f3c84d3d3ce7d4c14e25a8d4cf4679e3"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3deee70e8d5467ea02a9f19c0a35ea36002e5ba0"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "11b886c957dcbfb4f7e42e83d53032a2497e15bfff2e85e148c29e94f4e2d8fb"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c228edc0a01f14369bcf4cb09146f450e0c513cd"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "cebace188e87c4face6f092c37d847a4337f017a0544bc53654d90123764c74e"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51474378dfdbd948356b3f3c9a1fa1b10eb192e2"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "6d919dfb5eb451b54cd29bed7e64c8f0ce71518633aa36ab229adfec50a24c06"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3659683b6b0e0c0cb1dd2d529f876c59607cd810"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "d950c1b6909d4e67e0cffab09cdbbc72250ff512788c50f062d2517941e31c00"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ead09b55862472f82651128826dfcccdd664e59"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "03384900d92a0787dbf88ffb2768fba2c5ccde9aea87a364553de2ff164f1c7e"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba69ec7ef1a123f1f263709daeb8e9f1d7bdaa69"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "9ab6990bf1df11974eb3a08f40ea1a53708ff76a9bbe4c3b813968426bd8276f"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e70f1b58b9bf90f7f9e6370ceb0dee6625d2022b"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "bf26032625cee6b2d2f94064f72352117a93fe870a33578c9d41585da1807fb0"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5cf08ba0663c1f14823aee9e7fa8fab23bbbdb95"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "11031a70b5b96313216f4e352ccf5cba7b2d35d10ba49f11de21aacf2471cf5d"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.i686-linux-musl-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee864672d85c2eb26a25357ea5cef20ef037a4b6"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "41f90f2371b0b11d77ec6d9367613a3b8e13b882c7b351f508b627ce5af9ed37"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.i686-linux-musl-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "864b855fc414179b9199b78462e727d2c817c6b4"
+os = "windows"
+
+    [[ZXing_CPP.download]]
+    sha256 = "00942ce7f44ab552a4ac3b2084f9e106720f7f8abf7d86c97e1209087a989e3f"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.i686-w64-mingw32-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a50efae96a1e5e413e2b4ac229e13040c57bda9c"
+os = "windows"
+
+    [[ZXing_CPP.download]]
+    sha256 = "d3ced1058d1ba840333969cd95be0f54d0ec6406c68090d513d4e2eea5f06dc1"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.i686-w64-mingw32-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d771dd7dfafffdd1700e758b7fa9c346356a49dc"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "d62b8b79f35caf99b7b758a8131ce66878946017adcf94ed09afb4fe5502631e"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d7fe3337e7f1d7e3d70b693deca97f463e029a9"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "a4e47e40eff1b7a551e4f3de71f6ea1ca6f3b689abbf19b98d570cf7f071efd8"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "13204723f8ee7bb1e747ded03562a70946e1c8f8"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "c9c201df8d646fc03c969f83ba77920d80b0477ab43f9626ca55414a2bd7c53d"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a306c3b45929f5af7fdd39978cbf37d4a211910"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "515bd236e855de3782485c162d37596d8b3432d53d799fbdc27cbef4819e091d"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+git-tree-sha1 = "ce87d89f982d439cd4967847bed234c8ba8c417d"
+os = "macos"
+
+    [[ZXing_CPP.download]]
+    sha256 = "0a27479652f9f3c49e557c3ef1c61632826b11c1bd0957a3e921bb76e5deb507"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-apple-darwin.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b24ce1ead3ec634fefc5442d550e22111e703b0f"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "cd29b1f880ee0b7c94b5da7c496c06f72304e6da7806c5fe24272e9ac500f372"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "450f755c84628753488d457b43fb4595024ace36"
+libc = "glibc"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "3fa3a2831fdbb9a94a1b39b9a69efad7a0bd2de4823c8f02963614e54b34ed90"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b32cc7d4c9f0dd5ea5d6b6b320a45e8cb772d0ef"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "7dee347cc5724eb40984b6419974258c36a30f431c751a9ec5d565693bac9582"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7d329f318e5bd0a1689f5e33f4f013c41670f35"
+libc = "musl"
+os = "linux"
+
+    [[ZXing_CPP.download]]
+    sha256 = "70e14b8436439b2d8f0b44544ddbdcd44f8f857c93d586da6d77351d12557090"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+git-tree-sha1 = "a809e30fc0615eb0a3b5e13479a98dd3a3bf46ef"
+os = "freebsd"
+
+    [[ZXing_CPP.download]]
+    sha256 = "b11208a3b08b2ec2810b1f900eef53e33c38fdfc697d61a6f77e4d9554093b45"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-unknown-freebsd.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2ce80065de1d2eefa210de621338da3bf1742f8"
+os = "windows"
+
+    [[ZXing_CPP.download]]
+    sha256 = "88e7a44ba2999b119dc4806ab53c459f3ffaa6d91ac8e8b099412b9a547a35b7"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ZXing_CPP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f9d5263f7223a672215b4a1a80c661706ad41bc9"
+os = "windows"
+
+    [[ZXing_CPP.download]]
+    sha256 = "5e965497c6ff3ca8524c4249a3477eff77087088446d38d0fd9bced55883c207"
+    url = "https://github.com/JuliaBinaryWrappers/ZXing_CPP_jll.jl/releases/download/ZXing_CPP-v2.3.0+0/ZXing_CPP.v2.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
